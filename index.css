@@ -19,6 +19,14 @@ width: 100%;
   background-color: #ddd;	
   outline: none;	
 }
+.menu{
+  width:100%;
+  background-color:#CFD8DC;
+  margin-bottom:5px;
+  border:1px solid grey;
+
+
+}
 textarea {
     background: url(http://i.imgur.com/2cOaJ.png);
     background-attachment: local;
