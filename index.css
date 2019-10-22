@@ -22,8 +22,8 @@ input[type=text]{
 .menu{
   width:100%;
   background-color:#FAFAFA;
-  margin-bottom:5px;
-  border:1px solid blue;
+  margin-bottom:1px;
+  border:1px solid grey;
 
 
 }
